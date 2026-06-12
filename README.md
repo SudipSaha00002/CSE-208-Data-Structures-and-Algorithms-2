@@ -1,6 +1,6 @@
-# Data Structures and Algorithms II (DSA-II)
+# Data Structures and Algorithms 2 (DSA-2)
 
-This repository contains my C++ implementations for the Data Structures and Algorithms II (DSA-II) course assignments. Each directory focuses on an advanced data structure or algorithmic paradigm.
+This repository contains my C++ implementations for the Data Structures and Algorithms 2 (DSA-2) course assignments. Each directory focuses on an advanced data structure or algorithmic paradigm.
 
 ---
 
