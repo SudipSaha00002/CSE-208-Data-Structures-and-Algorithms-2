@@ -1,0 +1,40 @@
+Original Instance: 
+Answer: 226
+Used Weight: 98
+Indices : 11 10 8 7 6 5 4 
+
+Rounded Instance with Eps: 0.5
+Theta : 1
+Answer of the reduced instance: 228
+Answer of reduced instance multiplied by theta: 228
+Indices: 11 10 8 7 6 5 4 
+Answer of original instance (rounded up): 226
+Used Weight: 98
+Ratio: 1
+
+Rounded Instance with Eps: 0.2
+Theta : 0.4
+Answer of the reduced instance: 568
+Answer of reduced instance multiplied by theta: 227.2
+Indices: 11 10 8 7 6 5 4 
+Answer of original instance (rounded up): 226
+Used Weight: 98
+Ratio: 1
+
+Rounded Instance with Eps: 0.1
+Theta : 0.2
+Answer of the reduced instance: 1132
+Answer of reduced instance multiplied by theta: 226.4
+Indices: 11 10 8 7 6 5 4 
+Answer of original instance (rounded up): 226
+Used Weight: 98
+Ratio: 1
+
+Rounded Instance with Eps: 0.05
+Theta : 0.1
+Answer of the reduced instance: 2262
+Answer of reduced instance multiplied by theta: 226.2
+Indices: 11 10 8 7 6 5 4 
+Answer of original instance (rounded up): 226
+Used Weight: 98
+Ratio: 1
